@@ -1,5 +1,4 @@
 <h1 align="center" border={0} margin={0}>Hi 👋, I'm João Victor Bezerra</h1>
-<h2 align="center" margin={0}>A Junior Fullstack Developer</h3>
 
 - 📍  I'm currently living in **João Pessoa, Brazil**.
 - ⚙️ I use daily: `TypeScript`, `React`.
