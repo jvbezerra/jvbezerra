@@ -6,6 +6,7 @@
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvictorbezerra/)](https://www.linkedin.com/in/jvictorbezerra/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorjohn919@gmail.com)](mailto:victorjohn919@gmail.com)
+[![Exercism Badge](https://img.shields.io/badge/-Exercism-e1ebff?style=flat-square&logo=Exercism&logoColor=604fcd&link=https://exercism.org/profiles/jvbezerra)](https://exercism.org/profiles/jvbezerra)
 
 ## ⚡ Technologies
 
