@@ -16,6 +16,7 @@ These are some of the technologies and tools that I work with:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat-square&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-181717?style=flat-square&logo=Next.js)
+![Gatsby.js](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-181717?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
