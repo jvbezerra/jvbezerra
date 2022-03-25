@@ -2,7 +2,7 @@
 
 - 📍  I'm currently living in **João Pessoa, Brazil**.
 - ⚙️ I use daily: `TypeScript`, `React`.
-- 🌱 I'm currently studying **Flutter**.
+- 🌱 I'm currently studying **to improve my front-end engineering skills**.
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvictorbezerra/)](https://www.linkedin.com/in/jvictorbezerra/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorjohn919@gmail.com)](mailto:victorjohn919@gmail.com)
